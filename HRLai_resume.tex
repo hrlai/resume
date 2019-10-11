@@ -1,0 +1,270 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[a4paper]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+% \usepackage{paralist}  % compact list
+\usepackage{multicol}
+\usepackage{enumitem}
+\setlist{nosep,after=\vspace{\baselineskip}}
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+% \usepackage[T1]{fontenc}
+% \usepackage[sc,osf]{mathpazo}
+
+% Set your name here
+\def\name{Hao Ran LAI}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {ecology, statistics, functional trait, forest},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  left=1.0in,
+  right=1.0in,
+  top=1.0in,
+  bottom=1.0in
+}
+
+% Customise tabular spacing (padding)
+\renewcommand{\arraystretch}{1.5}
+\setlist{noitemsep, nosep, topsep=0pt, partopsep=0pt, parsep=0pt, after=\vspace{-\baselineskip}}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Use dash as bullets
+\renewcommand\labelitemi{---}
+
+\begin{document}
+
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.45\linewidth}
+  Department of Biological Sciences \\
+  Faculty of Science \\
+  National University of Singapore \\
+  14 Science Drive 4 \\	
+  Singapore 117543
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+  \begin{tabular}{ll}
+    Tel:   & (+60)17 962 5616 \\
+    Email: & \href{mailto:hrlai.ecology@gmail.com}{\tt hrlai.ecology@gmail.com} \\
+  \end{tabular}
+\end{minipage}
+
+
+
+\section*{Education}
+
+\begin{tabular}{p{0.13\linewidth} p{0.87\linewidth}}
+
+2015--2018 & Ph.D., Ecology and Evolutionary Biology, National University of Singapore. Advisors: Michiel van Breugel \& Hugh Tan Tiang Wah. Thesis: \textit{Functional ecology of tropical secondary forests} \\
+
+2009--2012 & B.Sc. (Hons.) Ecology, University of Queensland. Advisor: Margaret M. Mayfield. Thesis: \textit{Functional recovery following logging in subtropical forests}\\
+
+\end{tabular}
+
+
+\section*{Employment}
+
+\begin{tabular}{p{0.13\linewidth} p{0.87\linewidth}}
+
+2019--current & Research Fellow, School of Biological Sciences, University of Canterbury, New Zealand
+\begin{itemize} 
+\item Higher-order species interactions
+\end{itemize} \\
+
+2019 & Visiting Research Fellow, Centre for Urban Greenery and Ecology, National Parks Board, Singapore
+\begin{itemize} 
+\item Tree diameter growth in the urban areas of Singapore
+\end{itemize} \\
+
+2018--2019 & Research assistant, Department of Biological Sciences, National University of Singapore, Singapore
+\begin{itemize} 
+\item Data analysis and plant community survey in the Nee Soon Freshwater Swamp forest, Singapore
+\end{itemize} \\
+
+2015--2018 & Teaching assistant, National University of Singapore, Singapore
+\begin{itemize} 
+\item Biostatistics, Ecology, Field Studies, Plant Biology, and Horticulture
+\end{itemize} \\
+
+2015 & Biology Olympiad trainer, National Junior College, Singapore \\
+
+2012--2014 & Research assistant, Mayfield Plant Ecology Lab, University of Queensland, Australia 
+\begin{itemize}
+\item Survey and analyses of natural plant communities in Queensland subtropical forests and Western Australia grassland 
+\end{itemize} \\
+
+2012--2014 & Research officer, Centre for Mined Land Rehabilitation, University of Queensland, Australia
+\begin{itemize} 
+\item Map and identify threats of coal mining to an endangered plant species
+\end{itemize} \\
+
+2012--2014 & Research assistant, Buckley Ecology Lab, University of Queensland, Australia \\
+
+2012--2014 & Course Tutor, University of Queensland, Australia
+\begin{itemize} 
+\item Biostatistics, Ecology, and Plant Biology
+\end{itemize} \\
+
+\end{tabular}
+
+
+\section*{Publications}
+
+% \subsection*{Journal Articles}
+\begin{tabular}{p{\linewidth}}
+
+\hangindent=1cm \underline{Lai, H. R}., Chong, K. Y., Yee, A. T. K., Tan, H. T. W., van. Breugel, M. (n.d.). Functional traits that moderate tropical tree recruitment during post-windstorm secondary succession. \textit{In review}. \\
+
+\hangindent=1cm Chiam, Z., Song, X. P., \underline{Lai, H. R}., Tan, H. T. W. (2019). Particulate matter mitigation via plants: Understanding complex relationships with leaf traits. \textit{Science of the Total Environment}, 688, 398--408.\\
+
+\hangindent=1cm Yee, A. T. K., \underline{Lai, H. R}, Chong, K. Y., Neo, L., Koh, C. Y., Tan, S. Y., ... Tan, H. T. W. (2019). Short-term responses in a secondary tropical forest after a severe windstorm event. \textit{Journal of Vegetation Science}, 30, 720--731. \\
+
+\hangindent=1cm van Breugel, M., Craven D., \underline{Lai, H. R}, Baillon M., Turner, B.L., Hall, J.S. (2019). Soil nutrients and dispersal limitation shape compositional variation in secondary tropical forests across multiple scales. \textit{Journal of Ecology}, 107, 566--581. \textit{Special Feature -- Ecological succession in a changing world}.\\
+
+\hangindent=1cm Wainwright, C. E., HilleRisLambers, J., \underline{Lai, H. R.}, Loy, X., Mayfield, M. M. (2019). Distinct responses of niche and fitness differences to water availability underlie variable coexistence outcomes in semi-arid annual plant communities. \textit{Journal of Ecology}, 107, 293--306.\\
+
+\hangindent=1cm Lam, W.N., \underline{Lai, H.R.}, Lee. C., Tan, H.T.W. (2018) Evidence for pitcher trait-mediated coexistence between sympatric \textit{Nepenthes} pitcher plant species across geographical scales. \textit{Plant Ecology and Diversity}, 11(3), 283--294.\\
+
+\hangindent=1cm \underline{Lai, H.R.}, Hall, J.S., Batterman, S.A., Turner, B.L., van Breugel, M. (2018). Nitrogen fixer abundance has no effect on biomass recovery during tropical secondary forest succession. \textit{Journal of Ecology}, 106, 1415--1427. \textit{Special Feature -- Linking organismal functions, life history strategies and population performance}. \\
+
+\hangindent=1cm Bimler, M.D., Stouffer, D.B., \underline{Lai, H.R.}, Mayfield, M.M. (2018). Accurate predictions of coexistence in natural systems require the inclusion of facilitative interactions and environmental dependency. \textit{Journal of Ecology}, 106(5), 1839--1852. \textit{Special Feature -- Biotic controls of plant coexistence}.\\
+
+\hangindent=1cm Wainwright, C.E., Staples, T.L., Charles, L.S., Flanagan, T.C., \underline{Lai, H.R.}, Loy, X., Reynolds, V.A., Mayfield, M.M. (2018). Links between community ecology theory and ecological restoration are on the rise. \textit{Journal of Applied Ecology}, 55, 570--581.\\
+
+\hangindent=1cm Sams, M.A., \underline{Lai, H.R.}, Bonser, S.P., Vesk, P.A., Kooyman, R.M., Metcalfe, D.J., Morgan, J.W., Mayfield, M.M. (2017). Landscape context explains changes in the functional diversity of regenerating forests better than climate or species richness. \textit{Global Ecology and Biogeography}, 26, 1165--1176. \\
+
+\hangindent=1cm \underline{Lai, H.R.}, Hall, J.S., Turner, B.L., van Breugel, M. (2017). Liana effects on biomass dynamics strengthen during secondary forest succession. \textit{Ecology}, 98, 1062--1070. \\
+
+\hangindent=1cm \underline{Lai, H.R.}, Mayfield, M.M., Gay-des-combes, J.M., Spiegelberger, T., Dwyer, J.M. (2015). Distinct invasion strategies operating within a natural annual plant system. \textit{Ecology Letters}, 18, 336--346. \\
+
+\end{tabular}
+
+\section*{Conferences \& Presentations}
+\begin{tabular}{p{0.13\linewidth} p{0.87\linewidth}}
+2019 & Centre for Urban Greenery and Ecology, National Parks Board, Singapore. \\
+2018 & Association of Tropical Biology and Conservation (ATBC). Kuching, Malaysia. \\
+2016 & Conservation Asia. Singapore. \\
+2015 & 20th Biological Science Graduate Congress. Bangkok, Thailand. \\
+\end{tabular}
+
+
+\section*{Awards \& Scholarships}
+\begin{tabular}{p{0.13\linewidth} p{0.87\linewidth}}
+2019 & International Society for Plant Molecular Biology Medal for most outstanding thesis \\
+2019 & CUGE Visiting Research Fellowship, National Parks Board Singapore \\
+2017 \& 2018 & Teaching Assistant Award, National University of Singapore \\
+2016 & City Developments Limited (CDL) Urban Ecology and Conservation Scholarship \\
+2015--2018 & National University of Singapore Research Scholarship \\
+2013 & University Medal, University of Queensland \\
+2011 & Summer Research Scholarship, University of Queensland \\
+2010 & D.A. Herbert Prize in Botany, University of Queensland \\
+2010 & F.A Perkins Prize in Entomology, University of Queensland \\
+\end{tabular}
+
+
+\section*{Services \& Outreach}
+\begin{tabular}{p{0.13\linewidth} p{0.87\linewidth}}
+2017 & Science Research Programme, Hwa Chong Institution, Singapore \\
+2012--2014 & Volunteer, National Parks Association of Queensland Inc. (NPAQ) \\
+Ongoing & Reviewer for journals including \textit{Journal of Ecology}, \textit{Ecological Applications}, \textit{Biodiversity and Conservation}, and \textit{Biological Invasions}\\
+\end{tabular}
+
+
+\section*{Languages \& Qualifications}
+\begin{tabular}{p{\linewidth}}
+English (professional working proficiency) \\
+Mandarin (mother tongue) and Cantonese (regional dialect) \\
+Malay (national language) \\
+Malaysian and Singaporean driver's licenses \\
+\end{tabular}
+
+
+\section*{Other skills}
+\begin{multicols}{2}
+High proficiency:
+\begin{itemize}
+	\item \texttt{R} statistical and programming language
+	\item Plant survey and forestry techniques
+	\item \LaTeX and \texttt{Markdown}
+	\item 
+\end{itemize}
+\columnbreak
+General proficiency:
+\begin{itemize}
+	\item Plant identification 
+	\item Geographic information system
+	\item Weather stations \& remote sensing
+	\item 
+\end{itemize}
+\end{multicols}
+
+
+\section*{Professional references}
+\begin{tabular}{p{0.4\linewidth} p{0.6\linewidth}}
+Dr. Michiel van Bruegel & Former PhD supervisor \newline Assistant Professor, Yale--NUS College, Singapore \newline Tel: (+65) 6601 3705 \newline Email: \url{michiel.vanbreugel@yale-nus.edu.sg} \\
+Assoc. Prof. Hugh Tiang Wah Tan & Former PhD co-supervisor \newline Associate Professor, National University of Singapore \newline Tel: (+65) 6516 2708 \newline Email: \url{hughtan@nus.edu.sg} \\
+Dr. Kwek Yan Chong & Former employer / current collaborator \newline Senior Tutor, National University of Singapore \newline Tel: (+65) 6779 2486  \newline Email: \url{dbscky@nus.edu.sg} \\
+\end{tabular}
+
+\vfill
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+\end{document}
