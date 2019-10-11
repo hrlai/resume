@@ -1,2 +1,2 @@
-# resume
-Plain old resume
+# Resume
+Plain old resume, what more to say?
