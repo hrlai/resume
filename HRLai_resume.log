@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050) (preloaded format=pdflatex 2019.9.9)  4 NOV 2019 14:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2019.9.9)  8 JAN 2020 13:13
 entering extended mode
 **./HRLai_resume.tex
 (HRLai_resume.tex
@@ -337,12 +337,12 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 194--200
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 203--214
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 203--213
 [] 
  []
 
 [2]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 217--222
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 216--222
 [] 
  []
 
@@ -352,24 +352,24 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 225--231
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 254--259
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 254--260
 [] 
  []
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 266.
+Package hyperref Warning: Suppressing link with empty target on input line 267.
 
 
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
  (HRLai_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 270.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 270.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 271.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 271.
 Package rerunfilecheck Info: File `HRLai_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 270.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 271.
  ) 
 Here is how much of TeX's memory you used:
  5721 strings out of 494857
@@ -387,7 +387,7 @@ xmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/share/miktex-texmf/font
 s/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/share/miktex-texmf/fonts/type
 1/public/amsfonts/cm/cmti10.pfb></usr/local/share/miktex-texmf/fonts/type1/publ
 ic/amsfonts/cm/cmtt10.pfb>
-Output written on HRLai_resume.pdf (4 pages, 120705 bytes).
+Output written on HRLai_resume.pdf (4 pages, 120388 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  14 named destinations out of 1000 (max. 500000)
