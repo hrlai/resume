@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2020.1.29)  12 MAR 2020 10:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2020.1.29)  18 MAR 2020 11:55
 entering extended mode
 **./HRLai_resume.tex
 (HRLai_resume.tex
@@ -367,12 +367,12 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 195--201
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 204--214
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 204--213
 [] 
  []
 
 [2]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 217--223
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 216--223
 [] 
  []
 
@@ -431,7 +431,7 @@ xmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/share/miktex-texmf/font
 s/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/share/miktex-texmf/fonts/type
 1/public/amsfonts/cm/cmti10.pfb></usr/local/share/miktex-texmf/fonts/type1/publ
 ic/amsfonts/cm/cmtt10.pfb>
-Output written on HRLai_resume.pdf (3 pages, 120461 bytes).
+Output written on HRLai_resume.pdf (3 pages, 120695 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
