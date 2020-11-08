@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.28)  28 OCT 2020 12:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.9)  9 NOV 2020 11:07
 entering extended mode
 **./HRLai_resume.tex
 (HRLai_resume.tex
@@ -382,55 +382,55 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 119--161
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 166--195
+Overfull \hbox (12.0pt too wide) in paragraph at lines 166--197
 [] 
  []
 
 [1
 
 {/home/hrlai/.miktex/texmfs/data/pdftex/config/pdftex.map}]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 197--205
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 199--207
 [] 
  []
 
 [2]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 208--217
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 210--219
 [] 
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 220--227
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 222--229
 [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 230--236
+Overfull \hbox (12.0pt too wide) in paragraph at lines 232--238
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
 \OT1/cmr/m/n/10 Email: [][]$\OT1/cmtt/m/n/10 daniel . stouffer @
  []
 
 
-Underfull \hbox (badness 6910) in paragraph at lines 256--256
+Underfull \hbox (badness 6910) in paragraph at lines 258--258
 \OT1/cmr/m/n/10 Assistant Pro-fes-sor, Yale--NUS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--256
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
 \OT1/cmr/m/n/10 Email: [][]$\OT1/cmtt/m/n/10 michiel . vanbreugel @
  []
 
 
-Overfull \hbox (31.47278pt too wide) in paragraph at lines 254--260
+Overfull \hbox (31.47278pt too wide) in paragraph at lines 256--262
 [] 
  []
 
 [3]
 
-Package hyperref Warning: Suppressing link with empty target on input line 267.
+Package hyperref Warning: Suppressing link with empty target on input line 269.
 
 
 [4] (HRLai_resume.aux)
@@ -438,10 +438,10 @@ Package rerunfilecheck Info: File `HRLai_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 5879 strings out of 480237
- 92033 string characters out of 2887683
- 410318 words of memory out of 3000000
- 22353 multiletter control sequences out of 15000+200000
+ 5879 strings out of 480232
+ 92033 string characters out of 2887598
+ 406025 words of memory out of 3000000
+ 22355 multiletter control sequences out of 15000+200000
  537326 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,11n,66p,405b,328s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -453,7 +453,7 @@ xmf/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/share/miktex-texmf/font
 s/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/share/miktex-texmf/fonts/type
 1/public/amsfonts/cm/cmti10.pfb></usr/local/share/miktex-texmf/fonts/type1/publ
 ic/amsfonts/cm/cmtt10.pfb>
-Output written on HRLai_resume.pdf (4 pages, 122126 bytes).
+Output written on HRLai_resume.pdf (4 pages, 122856 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  14 named destinations out of 1000 (max. 500000)
