@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.18)  23 MAY 2021 11:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.18)  17 JUN 2021 15:50
 entering extended mode
 **./HRLai_resume.tex
 (HRLai_resume.tex
@@ -431,8 +431,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 264--264
  []
 
 
-Underfull \hbox (badness 6910) in paragraph at lines 265--265
-\OT1/cmr/m/n/10 Assistant Pro-fes-sor, Yale--NUS
+Underfull \hbox (badness 5578) in paragraph at lines 265--265
+\OT1/cmr/m/n/10 Associate Pro-fes-sor, Yale--NUS
  []
 
 
@@ -455,7 +455,7 @@ Package rerunfilecheck Info: File `HRLai_resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  8505 strings out of 479331
- 127138 string characters out of 2864010
+ 127114 string characters out of 2864010
  447309 words of memory out of 3000000
  25869 multiletter control sequences out of 15000+600000
  406620 words of font info for 38 fonts, out of 8000000 for 9000
@@ -470,7 +470,7 @@ s/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/share/miktex-texmf/fonts/type
 1/public/amsfonts/cm/cmti10.pfb></usr/local/share/miktex-texmf/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb></usr/local/share/miktex-texmf/fonts/type1/public/ams
 fonts/cm/cmtt10.pfb>
-Output written on HRLai_resume.pdf (4 pages, 134272 bytes).
+Output written on HRLai_resume.pdf (4 pages, 134073 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
