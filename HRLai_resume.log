@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.8.2)  5 AUG 2021 20:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.8.2)  6 AUG 2021 11:59
 entering extended mode
 **./HRLai_resume.tex
 (HRLai_resume.tex
@@ -447,10 +447,10 @@ Package rerunfilecheck Info: File `HRLai_resume.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 282.
  ) 
 Here is how much of TeX's memory you used:
- 5932 strings out of 480898
- 92064 string characters out of 2908366
- 373702 words of memory out of 3000000
- 21732 multiletter control sequences out of 15000+200000
+ 5931 strings out of 480898
+ 92051 string characters out of 2908366
+ 373699 words of memory out of 3000000
+ 21731 multiletter control sequences out of 15000+200000
  535528 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,11n,29p,381b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -463,7 +463,7 @@ ic/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pf
 b>
-Output written on HRLai_resume.pdf (4 pages, 134916 bytes).
+Output written on HRLai_resume.pdf (4 pages, 134912 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
