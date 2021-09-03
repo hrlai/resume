@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.8.2)  20 AUG 2021 14:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.8.2)  4 SEP 2021 09:27
 entering extended mode
 **./HRLai_resume.tex
 (HRLai_resume.tex
@@ -383,63 +383,64 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 119--161
 [1
 
 {C:/Users/haoran/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 205--213
-[] 
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 216--225
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 207--215
 [] 
  []
 
 [2]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 228--235
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 218--227
 [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 238--244
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 230--237
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--264
+Overfull \hbox (12.0pt too wide) in paragraph at lines 240--246
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 \OT1/cmr/m/n/10 Email: [][]$\OT1/cmtt/m/n/10 daniel . stouffer @
  []
 
 
-Underfull \hbox (badness 5578) in paragraph at lines 265--265
+Underfull \hbox (badness 5578) in paragraph at lines 267--267
 \OT1/cmr/m/n/10 Associate Pro-fes-sor, Yale--NUS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--265
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
 \OT1/cmr/m/n/10 Email: [][]$\OT1/cmtt/m/n/10 michiel . vanbreugel @
  []
 
 
-Overfull \hbox (31.47278pt too wide) in paragraph at lines 263--269
+Overfull \hbox (31.47278pt too wide) in paragraph at lines 265--271
 [] 
  []
 
-
-Package hyperref Warning: Suppressing link with empty target on input line 276.
-
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 280.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 280.
+
+Package hyperref Warning: Suppressing link with empty target on input line 278.
+
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 282.
+[4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 282.
  (HRLai_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 280.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 280.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 282.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 282.
 Package rerunfilecheck Info: File `HRLai_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 280.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 282.
  ) 
 Here is how much of TeX's memory you used:
- 5930 strings out of 480898
- 92045 string characters out of 2908366
- 369699 words of memory out of 3000000
+ 5931 strings out of 480898
+ 92051 string characters out of 2908366
+ 371699 words of memory out of 3000000
  21731 multiletter control sequences out of 15000+200000
  535528 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -452,9 +453,9 @@ type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmtt10.pfb>
-Output written on HRLai_resume.pdf (3 pages, 126536 bytes).
+Output written on HRLai_resume.pdf (4 pages, 127777 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
+ 75 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
