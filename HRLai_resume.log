@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.9.30)  2 OCT 2021 09:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.9.30)  3 NOV 2021 09:18
 entering extended mode
 **./HRLai_resume.tex
 (HRLai_resume.tex
@@ -400,43 +400,43 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 209--217
  []
 
 [2]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 220--229
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 220--230
 [] 
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 232--239
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 233--240
 [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 242--248
+Overfull \hbox (12.0pt too wide) in paragraph at lines 243--249
 [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
-\OT1/cmr/m/n/10 Email: [][]$\OT1/cmtt/m/n/10 daniel . stouffer @
- []
-
-
-Underfull \hbox (badness 5578) in paragraph at lines 269--269
-\OT1/cmr/m/n/10 Associate Pro-fes-sor, Yale--NUS
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 269--269
+\OT1/cmr/m/n/10 Email: [][]$\OT1/cmtt/m/n/10 daniel . stouffer @
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 270--270
+\OT1/cmr/m/n/10 Associate Pro-fes-sor, Yale--NUS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
 \OT1/cmr/m/n/10 Email: [][]$\OT1/cmtt/m/n/10 michiel . vanbreugel @
  []
 
 
-Overfull \hbox (31.47278pt too wide) in paragraph at lines 267--273
+Overfull \hbox (31.47278pt too wide) in paragraph at lines 268--274
 [] 
  []
 
 [3]
 
-Package hyperref Warning: Suppressing link with empty target on input line 280.
+Package hyperref Warning: Suppressing link with empty target on input line 281.
 
 
 [4] (HRLai_resume.aux)
@@ -450,7 +450,7 @@ Here is how much of TeX's memory you used:
  26316 multiletter control sequences out of 15000+600000
  406620 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,10n,66p,393b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,10n,66p,434b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 /local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
 share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/share/m
@@ -459,7 +459,7 @@ xmf/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/share/miktex-texmf/fo
 nts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/share/miktex-texmf/fonts/ty
 pe1/public/amsfonts/cm/cmti12.pfb></usr/local/share/miktex-texmf/fonts/type1/pu
 blic/amsfonts/cm/cmtt10.pfb>
-Output written on HRLai_resume.pdf (4 pages, 135050 bytes).
+Output written on HRLai_resume.pdf (4 pages, 135962 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
