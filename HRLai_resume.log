@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.3)  3 JUL 2022 16:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.3)  3 JUL 2022 16:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -394,33 +394,33 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 117--165
 [1
 
 {C:/Users/haoran/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 215--223
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 215--224
 [] 
  []
 
 [2]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 226--236
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 227--237
 [] 
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 239--246
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 240--247
 [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 249--255
+Overfull \hbox (12.0pt too wide) in paragraph at lines 250--256
 [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 261--288
+Overfull \hbox (12.0pt too wide) in paragraph at lines 262--289
 [] 
  []
 
 [3]
 
-Package hyperref Warning: Suppressing link with empty target on input line 294.
+Package hyperref Warning: Suppressing link with empty target on input line 295.
 
 
 [4] (HRLai_resume.aux)
@@ -443,7 +443,7 @@ type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmtt10.pfb>
-Output written on HRLai_resume.pdf (4 pages, 136088 bytes).
+Output written on HRLai_resume.pdf (4 pages, 136107 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
