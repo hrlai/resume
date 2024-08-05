@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2024.6.10)  19 JUL 2024 13:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2024.6.10)  5 AUG 2024 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -430,7 +430,7 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 105--112
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 116--164
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 116--169
 [] 
  []
 
@@ -440,13 +440,13 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 116--164
 
 {/home/hrlai/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/hrlai/.mikt
 ex/texmfs/install/fonts/enc/dvips/base/8r.enc}]
-Overfull \hbox (3.6419pt too wide) in paragraph at lines 206--207
+Overfull \hbox (3.6419pt too wide) in paragraph at lines 211--212
 []\T1/pplx/m/n/10 Wainwright, C.E., Staples, T.L., Charles, L.S., Flanagan, T.C
 ., $[]$, Loy, X., Reynolds, V.A., Mayfield,
  []
 
 
-Overfull \hbox (3.27855pt too wide) in paragraph at lines 212--213
+Overfull \hbox (3.27855pt too wide) in paragraph at lines 217--218
 []$[]$\T1/pplx/m/n/10 , Mayfield, M.M., Gay-des-combes, J.M., Spiegelberger, T.
 , Dwyer, J.M. (2015). Distinct invasion
  []
@@ -454,36 +454,36 @@ Overfull \hbox (3.27855pt too wide) in paragraph at lines 212--213
 
 
 LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplx/m/it' tried instead on input line 217.
+(Font)              Font shape `T1/pplx/m/it' tried instead on input line 219.
 [2]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 220--230
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 225--235
 [] 
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 233--243
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 238--248
 [] 
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 246--253
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 251--258
 [] 
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 256--263
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 261--268
 [] 
  []
 
 
 
 [3]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 273--300
+Overfull \hbox (12.0pt too wide) in paragraph at lines 278--305
 [] 
  []
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 306.
+Package hyperref Warning: Suppressing link with empty target on input line 311.
 
 
 
@@ -503,13 +503,13 @@ Here is how much of TeX's memory you used:
  32173 multiletter control sequences out of 15000+600000
  584782 words of font info for 75 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 75i,10n,79p,490b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,490b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/hrlai/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1000
 .pk></home/hrlai/.miktex/texmfs/install/fonts/type1/urw/palatino/uplr8a.pfb></h
 ome/hrlai/.miktex/texmfs/install/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on HRLai_resume.pdf (4 pages, 70471 bytes).
+Output written on HRLai_resume.pdf (4 pages, 70372 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
