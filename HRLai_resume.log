@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.12.6)  2 MAR 2025 13:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.12.6)  4 MAR 2025 10:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -388,85 +388,71 @@ Package hyperref Info: Link coloring ON on input line 74.
 
 \big@size=\dimen165
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-88.
+87.
 (C:\Users\hrl23\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-88.
+87.
 
 (C:\Users\hrl23\AppData\Roaming\MiKTeX\tex/latex/psnfss\omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-88.
+87.
 
 (C:\Users\hrl23\AppData\Roaming\MiKTeX\tex/latex/psnfss\omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-88.
+87.
 
 (C:\Users\hrl23\AppData\Roaming\MiKTeX\tex/latex/psnfss\omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-88.
+87.
 
 (C:\Users\hrl23\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 9
-2.
+0.
 
 (C:\Program Files\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (3.68372pt too wide) in paragraph at lines 90--94
-[][] 
+Overfull \hbox (2.21pt too wide) in paragraph at lines 81--95
+[]$[]$ $[]$ 
  []
 
 [1
 
 {C:/Users/hrl23/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplx/m/it' tried instead on input line 226.
+(Font)              Font shape `T1/pplx/m/it' tried instead on input line 230.
  [2]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 251--262
-[] 
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 265--275
-[] 
- []
-
-
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 278--285
-[] 
- []
-
 [3]
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 288--295
+Overfull \hbox (12.0pt too wide) in paragraph at lines 315--348
+[] 
+ []
+
+[4]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 350--356
 [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 305--332
-[] 
- []
+Package hyperref Warning: Suppressing link with empty target on input line 362.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 338.
-
-
-[4] (HRLai_resume.aux)
+[5] (HRLai_resume.aux)
 Package rerunfilecheck Info: File `HRLai_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9375 strings out of 475385
- 148460 string characters out of 2786722
+ 9378 strings out of 475385
+ 148488 string characters out of 2786722
  514287 words of memory out of 3000000
  30620 multiletter control sequences out of 15000+600000
  495972 words of font info for 67 fonts, out of 8000000 for 9000
@@ -476,9 +462,9 @@ Here is how much of TeX's memory you used:
 \Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Program Files/
 MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1
 /urw/palatino/uplri8a.pfb>
-Output written on HRLai_resume.pdf (4 pages, 72945 bytes).
+Output written on HRLai_resume.pdf (5 pages, 78036 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
