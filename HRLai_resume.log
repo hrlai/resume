@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.12.6)  4 MAR 2025 10:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.12.6)  15 MAR 2025 12:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -433,17 +433,17 @@ LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10> not available
 (Font)              Font shape `T1/pplx/m/it' tried instead on input line 230.
  [2]
 [3]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 315--348
+Overfull \hbox (12.0pt too wide) in paragraph at lines 320--353
 [] 
  []
 
 [4]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 350--356
+Overfull \hbox (12.0pt too wide) in paragraph at lines 355--361
 [] 
  []
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 362.
+Package hyperref Warning: Suppressing link with empty target on input line 367.
 
 
 [5] (HRLai_resume.aux)
@@ -457,12 +457,12 @@ Here is how much of TeX's memory you used:
  30620 multiletter control sequences out of 15000+600000
  495972 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,77p,490b,430s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,10n,77p,478b,430s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <C:\Users\hrl23\AppData
 \Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Program Files/
 MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1
 /urw/palatino/uplri8a.pfb>
-Output written on HRLai_resume.pdf (5 pages, 78036 bytes).
+Output written on HRLai_resume.pdf (5 pages, 78787 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
