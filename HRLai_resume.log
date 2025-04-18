@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.12.6)  16 MAR 2025 06:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.12.6)  18 APR 2025 16:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -417,12 +417,12 @@ LaTeX Font Info:    Trying to load font information for OT1+zplm on input line
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 9
-0.
+2.
 
 (C:\Program Files\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (2.21pt too wide) in paragraph at lines 81--95
+Overfull \hbox (2.21pt too wide) in paragraph at lines 81--99
 []$[]$ $[]$ 
  []
 
@@ -430,20 +430,20 @@ Overfull \hbox (2.21pt too wide) in paragraph at lines 81--95
 
 {C:/Users/hrl23/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplx/m/it' tried instead on input line 230.
+(Font)              Font shape `T1/pplx/m/it' tried instead on input line 237.
  [2]
 [3]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 322--355
+Overfull \hbox (12.0pt too wide) in paragraph at lines 330--354
 [] 
  []
 
 [4]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 357--363
+Overfull \hbox (12.0pt too wide) in paragraph at lines 356--362
 [] 
  []
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 369.
+Package hyperref Warning: Suppressing link with empty target on input line 368.
 
 
 [5] (HRLai_resume.aux)
@@ -453,16 +453,16 @@ Package rerunfilecheck Info: File `HRLai_resume.out' has not changed.
 Here is how much of TeX's memory you used:
  9378 strings out of 475385
  148488 string characters out of 2786722
- 514287 words of memory out of 3000000
+ 515287 words of memory out of 3000000
  30620 multiletter control sequences out of 15000+600000
  495972 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,77p,478b,430s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,10n,77p,599b,430s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <C:\Users\hrl23\AppData
 \Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Program Files/
 MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1
 /urw/palatino/uplri8a.pfb>
-Output written on HRLai_resume.pdf (5 pages, 78919 bytes).
+Output written on HRLai_resume.pdf (5 pages, 79004 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
