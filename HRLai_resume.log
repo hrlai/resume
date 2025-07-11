@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.12.6)  31 MAY 2025 21:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.12.6)  12 JUL 2025 09:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -299,7 +299,7 @@ File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box97
 )
-(HRLai_resume.aux)
+No file HRLai_resume.aux.
 \openout1 = `HRLai_resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
@@ -320,7 +320,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
- (C:\Program Files\MiKTeX\tex/latex/graphics\color.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
 
 (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
@@ -346,8 +346,6 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \everyMPtoPDFconversion=\toks20
 )) (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 74.
-
-(HRLai_resume.out) (HRLai_resume.out)
 \@outlinefile=\write3
 \openout3 = `HRLai_resume.out'.
 
@@ -430,30 +428,36 @@ Overfull \hbox (2.21pt too wide) in paragraph at lines 81--99
 
 {C:/Users/hrl23/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplx/m/it' tried instead on input line 237.
+(Font)              Font shape `T1/pplx/m/it' tried instead on input line 238.
  [2]
 [3]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 330--354
+Overfull \hbox (12.0pt too wide) in paragraph at lines 331--355
 [] 
  []
 
 [4]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 356--362
+Overfull \hbox (12.0pt too wide) in paragraph at lines 357--363
 [] 
  []
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 368.
+Package hyperref Warning: Suppressing link with empty target on input line 369.
 
 
 [5] (HRLai_resume.aux)
-Package rerunfilecheck Info: File `HRLai_resume.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package rerunfilecheck Warning: File `HRLai_resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `HRLai_resume.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9378 strings out of 475385
- 148488 string characters out of 2786722
- 515287 words of memory out of 3000000
+ 9372 strings out of 475385
+ 148326 string characters out of 2786722
+ 515165 words of memory out of 3000000
  30620 multiletter control sequences out of 15000+600000
  495972 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -462,7 +466,7 @@ Here is how much of TeX's memory you used:
 \Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Program Files/
 MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1
 /urw/palatino/uplri8a.pfb>
-Output written on HRLai_resume.pdf (5 pages, 79010 bytes).
+Output written on HRLai_resume.pdf (5 pages, 79046 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
